@@ -1,0 +1,18 @@
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\İlk Harf Buyuk\İlk Harf Buyuk\bin\Debug\İlk Harf Buyuk.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\İlk Harf Buyuk\İlk Harf Buyuk\bin\Debug\İlk Harf Buyuk.pdb
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\İlk Harf Buyuk\İlk Harf Buyuk\obj\x86\Debug\İlk_Harf_Buyuk.Form1.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\İlk Harf Buyuk\İlk Harf Buyuk\obj\x86\Debug\İlk_Harf_Buyuk.Properties.Resources.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\İlk Harf Buyuk\İlk Harf Buyuk\obj\x86\Debug\İlk Harf Buyuk.csproj.GenerateResource.Cache
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\İlk Harf Buyuk\İlk Harf Buyuk\obj\x86\Debug\İlk Harf Buyuk.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\İlk Harf Buyuk\İlk Harf Buyuk\obj\x86\Debug\İlk Harf Buyuk.pdb
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\İlk Harf Buyuk\İlk Harf Buyuk\obj\x86\Debug\İlk Harf Buyuk.csprojResolveAssemblyReference.cache
+C:\Users\ncfkr1\Desktop\ \5 C#\BLOG\İlk Harf Buyuk\İlk Harf Buyuk\obj\x86\Debug\İlk Harf Buyuk.exe
+C:\Users\ncfkr1\Desktop\ \5 C#\BLOG\İlk Harf Buyuk\İlk Harf Buyuk\obj\x86\Debug\İlk Harf Buyuk.pdb
+E:\04 - Yazılım\04 - Form Projeleri\64 İlk Harf Buyuk\İlk Harf Buyuk\obj\x86\Debug\İlk Harf Buyuk.exe
+E:\04 - Yazılım\04 - Form Projeleri\64 İlk Harf Buyuk\İlk Harf Buyuk\obj\x86\Debug\İlk Harf Buyuk.pdb
+E:\04 - Yazılım\04 - Form Projeleri\64 İlk Harf Buyuk\İlk Harf Buyuk\bin\Debug\İlk Harf Buyuk.exe
+E:\04 - Yazılım\04 - Form Projeleri\64 İlk Harf Buyuk\İlk Harf Buyuk\bin\Debug\İlk Harf Buyuk.pdb
+E:\04 - Yazılım\04 - Form Projeleri\64 İlk Harf Buyuk\İlk Harf Buyuk\obj\x86\Debug\İlk Harf Buyuk.csprojResolveAssemblyReference.cache
+E:\04 - Yazılım\04 - Form Projeleri\64 İlk Harf Buyuk\İlk Harf Buyuk\obj\x86\Debug\İlk_Harf_Buyuk.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\64 İlk Harf Buyuk\İlk Harf Buyuk\obj\x86\Debug\İlk_Harf_Buyuk.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\64 İlk Harf Buyuk\İlk Harf Buyuk\obj\x86\Debug\İlk Harf Buyuk.csproj.GenerateResource.Cache
